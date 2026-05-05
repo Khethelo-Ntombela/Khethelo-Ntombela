@@ -14,6 +14,6 @@ Entrepreneur: Founder of Litha Ntombela Enterprises, a logistics and repair busi
 
  Let's Connect:
  www.linkedin.com/in/khethelo-ntombela-a962a0234  or 
- https://lithasfarmbook.co.za/
+ https://lithasfarmbook.co.za/ or 
 Email: ntombelakhethelo15@gmail.com
 

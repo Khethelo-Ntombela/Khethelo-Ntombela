@@ -1,9 +1,9 @@
 
  Hi, I'm Khethelo Litha Ntombela!
-💻 Computer Science Student | Passionate about DevOps, Software Development,Cloud Computig and Cybersecurity.
+Finaal year Computer Science Student | Passionate about Software Development,DevOps and Cybersecurity.
 
 🔧Projects: Building apps for farming, and practical experience 
-Learning: C#, Node.js, MongoDB, and cloud computing.
+Learning: C#, and cloud computing.
 Interests:Software Development, Cloud  DevOps and Cybersecurity
 Entrepreneur: Founder of Litha Ntombela Enterprises, a logistics and repair business.
 
@@ -14,5 +14,6 @@ Entrepreneur: Founder of Litha Ntombela Enterprises, a logistics and repair busi
 
  Let's Connect:
  www.linkedin.com/in/khethelo-ntombela-a962a0234
+ https://lithasfarmbook.co.za/
 Email: ntombelakhethelo15@gmail.com
 

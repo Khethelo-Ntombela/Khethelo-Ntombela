@@ -1,6 +1,6 @@
 
  Hi, I'm Khethelo Litha Ntombela!
-Finaal year Computer Science Student | Passionate about Software Development,DevOps and Cybersecurity.
+Final year Computer Science Student | Passionate about Software Development,DevOps and Cybersecurity.
 
 🔧Projects: Building apps for farming, and practical experience 
 Learning: C#, and cloud computing.
